@@ -1,0 +1,29 @@
+{
+	"name": "visc",
+	"version": "0.0.1",
+	"description": "Video Interference Secure Credit",
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js"
+  	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/w4173n0153/visc.git"
+  	},
+	"keywords": [
+		"video",
+		"interference",
+		"secure",
+		"credit"
+	],
+	"author": {
+		"name": "white_noise",
+		"url": "https://github.com/w4173n0153",
+		"email": "white.noise@internet.ru"
+	},
+  	"license": "SEE LICENCE IN LICENSE.MD",
+  	"bugs": {
+		"url": "https://github.com/w4173n0153/visc/issues"
+	},
+	"homepage": "https://github.com/w4173n0153/visc#readme"
+}
