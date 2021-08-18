@@ -10,3 +10,7 @@ telegram: @white_nois
 Currently in development, not ready for use.
 This file will be filled with more things when some significant part of the work will be done.
 Check CHANGELOG.MD to see how the work is going.
+
+To use the software, you need to download Node.js from the official website (https://nodejs.org)
+To start the program, type in console:
+`node index.js`
